@@ -5,7 +5,7 @@
   "scripts": {
     "start": "webpack serve --config webpack.dev.js --open",
     "build": "webpack --config webpack.prod.js",
-    "commit": "git add . && git commit -m \"Project structure\" && git push"
+    "commit": "git add . && git commit -m \"Add neccessary todo app features\" && git push"
   },
   "keywords": [],
   "author": "",
